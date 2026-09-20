@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/be0cd1af-53fa-4c6c-810f-265bd870770e/resourceGroups/appsvc_windows_germanywestcentral/providers/Microsoft.Web/sites/bmi-test",
+    "appService.deploySubpath": "bmi2021/bin/Publish"
+}
